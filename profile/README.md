@@ -1,6 +1,6 @@
-# RECloud Hosting ☁️
+# ReCloud Hosting ☁️
 
-Bienvenue chez **RECloud Hosting** ! 🚀
+Bienvenue chez **ReCloud Hosting** ! 🚀
 
 ## Rejoignez notre communauté
 
