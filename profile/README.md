@@ -1,13 +1,13 @@
-# ReCloud Hosting ☁️
+# Zenyx Group ☁️
 
-Bienvenue chez **ReCloud Hosting** ! 🚀
+Bienvenue chez **Zenyx Group** ! 🚀
 
 ## Rejoignez notre communauté
 
-Pour toute assistance ou pour échanger avec d'autres utilisateurs, rejoignez notre serveur Discord en cliquant [ici](https://discord.gg/whemUJyDHf).
+Pour toute assistance ou pour échanger avec d'autres utilisateurs, rejoignez notre serveur Discord en cliquant [ici](https://discord.gg/zenyx).
 
 ## Comment nous contacter
 
 Si vous avez des questions ou des préoccupations, n'hésitez pas à nous contacter :
-[contact@recloud.fr](mailto:contact@recloud.fr)
-[www.recloud.fr](https://bit.ly/4go8ThA)
+[contact@zenyx.eu](mailto:contact@zenyx.eu)
+[www.zenyx.eu](https://www.zenyx.eu)
